@@ -1,0 +1,29 @@
+
+.f-2{
+    border: none;
+}
+.color {
+    background-image: url(components/image/Image.svg);
+    height: 460px;
+    width: 100%;
+
+}
+.butn{
+    border-radius: 5px;
+    background: #FF4343 !important;
+}
+.colorr{
+    background-color: black;
+}
+.name{
+
+color: var(--dark-blue-100, #1F2C73);
+
+}
+.namee{
+background-image:url(components/image/Background.svg) ;
+}
+.coloor{
+    background-image: url(components/image/bg-img.png);
+    height: 700px;
+}
